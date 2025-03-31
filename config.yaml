@@ -1,0 +1,8 @@
+cookie:
+  expiry_days: 30
+credentials:
+  usernames:
+    guest:
+      email: guest@example.com
+      name: "\uAC8C\uC2A4\uD2B8"
+      password: ceae2b41d07cca44f4c749342207015a2d72329fce8ecd6de33eeb2855e7f67a:b066f0a639124ec4b4b9ff37e51e21a6
